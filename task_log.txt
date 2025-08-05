@@ -1,0 +1,19 @@
+-----Naukri.py Script Run Begin-----
+Google Chrome Launched!
+Jobseeker's Login: Search the Best Jobs available in India & Abroad - Naukri.com
+Website Loaded Successfully.
+Checking Skip button
+Element not found with XPATH : //*[contains(@class, 'cross-icon') or @alt='cross-icon']
+Element not found with XPATH : //*[text() = 'SKIP AND CONTINUE']
+Naukri Login Successful
+Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+Element not found with XPATH : //*[@name='mobile'] | //*[@id='mob_number']
+Profile Update Successful
+Element not found with XPATH : //*[contains(@class, 'crossIcon')]
+Element not found with ID : //button[@type='button']
+Resume Document Upload Successful. Last Updated date = Uploaded on Aug 04, 2025
+Driver Closed Successfully
+Driver Quit Successfully
+-----Naukri.py Script Run Ended-----
+
